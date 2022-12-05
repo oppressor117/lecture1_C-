@@ -1,0 +1,15 @@
+/Users/zuza/Desktop/С#/lecture1_C#/examples/Ex001/bin/Debug/net7.0/Ex001
+/Users/zuza/Desktop/С#/lecture1_C#/examples/Ex001/bin/Debug/net7.0/Ex001.deps.json
+/Users/zuza/Desktop/С#/lecture1_C#/examples/Ex001/bin/Debug/net7.0/Ex001.runtimeconfig.json
+/Users/zuza/Desktop/С#/lecture1_C#/examples/Ex001/bin/Debug/net7.0/Ex001.dll
+/Users/zuza/Desktop/С#/lecture1_C#/examples/Ex001/bin/Debug/net7.0/Ex001.pdb
+/Users/zuza/Desktop/С#/lecture1_C#/examples/Ex001/obj/Debug/net7.0/Ex001.csproj.AssemblyReference.cache
+/Users/zuza/Desktop/С#/lecture1_C#/examples/Ex001/obj/Debug/net7.0/Ex001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zuza/Desktop/С#/lecture1_C#/examples/Ex001/obj/Debug/net7.0/Ex001.AssemblyInfoInputs.cache
+/Users/zuza/Desktop/С#/lecture1_C#/examples/Ex001/obj/Debug/net7.0/Ex001.AssemblyInfo.cs
+/Users/zuza/Desktop/С#/lecture1_C#/examples/Ex001/obj/Debug/net7.0/Ex001.csproj.CoreCompileInputs.cache
+/Users/zuza/Desktop/С#/lecture1_C#/examples/Ex001/obj/Debug/net7.0/Ex001.dll
+/Users/zuza/Desktop/С#/lecture1_C#/examples/Ex001/obj/Debug/net7.0/refint/Ex001.dll
+/Users/zuza/Desktop/С#/lecture1_C#/examples/Ex001/obj/Debug/net7.0/Ex001.pdb
+/Users/zuza/Desktop/С#/lecture1_C#/examples/Ex001/obj/Debug/net7.0/Ex001.genruntimeconfig.cache
+/Users/zuza/Desktop/С#/lecture1_C#/examples/Ex001/obj/Debug/net7.0/ref/Ex001.dll
